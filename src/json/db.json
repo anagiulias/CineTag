@@ -1,26 +1,28 @@
-[
-    {
-        "id": 1,
-        "titulo": "O labirinto do Logcat",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img2.png",
-        "link": "https://www.youtube.com/embed/ypvGqZGJBls"
-    },
-    {
-        "id": 2,
-        "titulo": "Um componente no espaço",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img1.png",
-        "link": "https://www.youtube.com/embed/jK0uiQ1ZQQQ"
-    },
-    {
-        "id": 3,
-        "titulo": "O poderoso JavaScript",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img4.png",
-        "link": "https://www.youtube.com/embed/N1BSG02z-Mw"
-    },
-    {
-        "id": 4,
-        "titulo": "Dart, o Caçador de Andróides",
-        "capa": "https://caelum-online-public.s3.amazonaws.com/2802-react-praticando/img3.png",
-        "link": "https://www.youtube.com/embed/LLmBWjF6F8M"
-    }
-]
+{ 
+    "videos": [
+        {
+            "id": 1,
+            "titulo": "Assassin's Creed Valhalla",
+            "capa": "https://i.pinimg.com/originals/e4/22/70/e422709392e22e26482bba2b7810f330.jpg",
+            "link": "https://www.youtube.com/embed/ypvGqZGJBls"
+        },
+        {
+            "id": 2,
+            "titulo": "Bully : Scholarship Edition",
+            "capa": "https://i.pinimg.com/originals/81/fc/03/81fc032967cb181aeff8cd00f8a2dc77.jpg",
+            "link": "https://youtu.be/88KNf0MtU14"
+        },
+        {
+            "id": 3,
+            "titulo": "Life is Strange: True Colors",
+            "capa": "https://i.pinimg.com/originals/f0/6e/77/f06e7754861b7224365f32234c562c18.jpg",
+            "link": "https://youtu.be/PNt1aSkYfWk"
+        },
+        {
+            "id": 4,
+            "titulo": "Tell Me Why",
+            "capa": "https://i.pinimg.com/originals/44/39/21/443921ed65a07b10b9646e37133396a9.png",
+            "link": "https://youtu.be/DRN2VgTB-J8"
+        }
+    ]
+}
