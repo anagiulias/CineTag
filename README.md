@@ -6,8 +6,8 @@
 ## Comandos
 Para rodar esse projeto, você precisa utilizar os seguintes comandos:
 
-### `npm install`
-### `npm start`
+- `npm install`
+- `npm start`
 
 **Observação: Os comandos precisam da instalação do NodeJS em sua máquina, eles podem ser feitos no seu terminal.**
 
