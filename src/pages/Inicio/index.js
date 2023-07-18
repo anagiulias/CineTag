@@ -17,7 +17,7 @@ function Inicio() {
     
     return (
         <>
-            <Banner imagem="home" />
+            <Banner imagem="gamer" />
             <Titulo>
                 <h1>Um lugar para guardar sua coleção de jogos</h1>
             </Titulo>

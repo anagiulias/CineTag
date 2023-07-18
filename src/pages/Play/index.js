@@ -15,7 +15,7 @@ function Play() {
             .then(dados => {
                 setVideo(...dados)
             })
-    }, [])
+    }, [parametros.id])
 
     if (!video) {
         return <NaoEncontrada />
@@ -23,7 +23,7 @@ function Play() {
 
     return (
         <>
-            <Banner imagem="player" />
+            <Banner imagem="gamer" />
             <Titulo>
                 <h1>Play trailer</h1>
             </Titulo>
